@@ -1,6 +1,7 @@
 # project
 
 This template should help get you started developing with Vue 3 in Vite.
+使用vue3+vite+ts+pinia+router+element-plus+echarts开发的后台管理系统，包含运营平台项目模板从0到1开发，以及数据大屏、路由权限等业务，功能涵盖范围广。
 
 ## Recommended IDE Setup
 
